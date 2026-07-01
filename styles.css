@@ -64,7 +64,6 @@ ul { list-style: none; }
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-}
 /* Logo */
 .site-logo {
   display: flex;
@@ -103,7 +102,6 @@ ul { list-style: none; }
   color: var(--red);
   letter-spacing: 0.12em;
   text-transform: uppercase;
-}
 }
 .logo-text-block {
   display: flex;
